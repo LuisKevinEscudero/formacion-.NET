@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\bin\Debug\net6.0\1. variables.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\bin\Debug\net6.0\1. variables.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\bin\Debug\net6.0\1. variables.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\bin\Debug\net6.0\1. variables.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\bin\Debug\net6.0\1. variables.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\refint\1. variables.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\1. variables.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\1. variables\1. variables\obj\Debug\net6.0\ref\1. variables.dll

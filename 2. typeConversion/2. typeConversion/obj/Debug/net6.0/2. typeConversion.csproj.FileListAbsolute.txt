@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\bin\Debug\net6.0\2. typeConversion.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\bin\Debug\net6.0\2. typeConversion.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\bin\Debug\net6.0\2. typeConversion.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\bin\Debug\net6.0\2. typeConversion.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\bin\Debug\net6.0\2. typeConversion.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\refint\2. typeConversion.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\2. typeConversion.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\2. typeConversion\2. typeConversion\obj\Debug\net6.0\ref\2. typeConversion.dll

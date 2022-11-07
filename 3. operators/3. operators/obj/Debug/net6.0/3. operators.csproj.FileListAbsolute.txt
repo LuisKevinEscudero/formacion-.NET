@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\bin\Debug\net6.0\3. operators.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\bin\Debug\net6.0\3. operators.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\bin\Debug\net6.0\3. operators.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\bin\Debug\net6.0\3. operators.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\bin\Debug\net6.0\3. operators.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\refint\3. operators.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\3. operators.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\3. operators\3. operators\obj\Debug\net6.0\ref\3. operators.dll

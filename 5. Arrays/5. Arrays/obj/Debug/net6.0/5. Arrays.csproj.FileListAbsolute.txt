@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\bin\Debug\net6.0\5. Arrays.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\bin\Debug\net6.0\5. Arrays.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\bin\Debug\net6.0\5. Arrays.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\bin\Debug\net6.0\5. Arrays.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\bin\Debug\net6.0\5. Arrays.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\refint\5. Arrays.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\5. Arrays.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\5. Arrays\5. Arrays\obj\Debug\net6.0\ref\5. Arrays.dll

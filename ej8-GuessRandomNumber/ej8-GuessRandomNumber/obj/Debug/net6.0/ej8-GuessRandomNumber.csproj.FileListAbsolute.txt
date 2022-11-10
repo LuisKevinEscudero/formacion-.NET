@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\bin\Debug\net6.0\ej8-GuessRandomNumber.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\bin\Debug\net6.0\ej8-GuessRandomNumber.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\bin\Debug\net6.0\ej8-GuessRandomNumber.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\bin\Debug\net6.0\ej8-GuessRandomNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\bin\Debug\net6.0\ej8-GuessRandomNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\refint\ej8-GuessRandomNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ej8-GuessRandomNumber.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej8-GuessRandomNumber\ej8-GuessRandomNumber\obj\Debug\net6.0\ref\ej8-GuessRandomNumber.dll

@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\bin\Debug\net6.0\ej9-FindMaxFromList.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\bin\Debug\net6.0\ej9-FindMaxFromList.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\bin\Debug\net6.0\ej9-FindMaxFromList.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\bin\Debug\net6.0\ej9-FindMaxFromList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\bin\Debug\net6.0\ej9-FindMaxFromList.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\refint\ej9-FindMaxFromList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ej9-FindMaxFromList.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej9-FindMaxFromList\ej9-FindMaxFromList\obj\Debug\net6.0\ref\ej9-FindMaxFromList.dll

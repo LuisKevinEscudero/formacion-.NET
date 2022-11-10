@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\bin\Debug\net6.0\ej4-CarSpeedLimit.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\bin\Debug\net6.0\ej4-CarSpeedLimit.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\bin\Debug\net6.0\ej4-CarSpeedLimit.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\bin\Debug\net6.0\ej4-CarSpeedLimit.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\bin\Debug\net6.0\ej4-CarSpeedLimit.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\refint\ej4-CarSpeedLimit.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ej4-CarSpeedLimit.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej4-CarSpeedLimit\ej4-CarSpeedLimit\obj\Debug\net6.0\ref\ej4-CarSpeedLimit.dll

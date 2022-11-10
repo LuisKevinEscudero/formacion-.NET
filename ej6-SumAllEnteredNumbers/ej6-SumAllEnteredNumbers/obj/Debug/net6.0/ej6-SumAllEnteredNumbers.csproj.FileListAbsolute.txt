@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\bin\Debug\net6.0\ej6-SumAllEnteredNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\bin\Debug\net6.0\ej6-SumAllEnteredNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\bin\Debug\net6.0\ej6-SumAllEnteredNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\bin\Debug\net6.0\ej6-SumAllEnteredNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\bin\Debug\net6.0\ej6-SumAllEnteredNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\refint\ej6-SumAllEnteredNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ej6-SumAllEnteredNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej6-SumAllEnteredNumbers\ej6-SumAllEnteredNumbers\obj\Debug\net6.0\ref\ej6-SumAllEnteredNumbers.dll

@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\bin\Debug\net6.0\ej2-MaxTwoNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\bin\Debug\net6.0\ej2-MaxTwoNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\bin\Debug\net6.0\ej2-MaxTwoNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\bin\Debug\net6.0\ej2-MaxTwoNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\bin\Debug\net6.0\ej2-MaxTwoNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\refint\ej2-MaxTwoNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ej2-MaxTwoNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej2-MaxTwoNumbers\ej2-MaxTwoNumbers\obj\Debug\net6.0\ref\ej2-MaxTwoNumbers.dll

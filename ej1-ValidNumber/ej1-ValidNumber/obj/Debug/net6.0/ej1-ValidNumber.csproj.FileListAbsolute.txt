@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\bin\Debug\net6.0\ej1-ValidNumber.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\bin\Debug\net6.0\ej1-ValidNumber.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\bin\Debug\net6.0\ej1-ValidNumber.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\bin\Debug\net6.0\ej1-ValidNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\bin\Debug\net6.0\ej1-ValidNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\refint\ej1-ValidNumber.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ej1-ValidNumber.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej1-ValidNumber\ej1-ValidNumber\obj\Debug\net6.0\ref\ej1-ValidNumber.dll

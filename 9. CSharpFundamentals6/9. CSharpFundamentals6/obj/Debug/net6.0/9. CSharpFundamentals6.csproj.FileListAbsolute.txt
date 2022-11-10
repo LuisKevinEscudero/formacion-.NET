@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\bin\Debug\net6.0\9. CSharpFundamentals6.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\bin\Debug\net6.0\9. CSharpFundamentals6.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\bin\Debug\net6.0\9. CSharpFundamentals6.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\bin\Debug\net6.0\9. CSharpFundamentals6.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\bin\Debug\net6.0\9. CSharpFundamentals6.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\refint\9. CSharpFundamentals6.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\9. CSharpFundamentals6.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\9. CSharpFundamentals6\9. CSharpFundamentals6\obj\Debug\net6.0\ref\9. CSharpFundamentals6.dll

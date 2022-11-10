@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\bin\Debug\net6.0\ej3-LandscapePortraitImage.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\bin\Debug\net6.0\ej3-LandscapePortraitImage.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\bin\Debug\net6.0\ej3-LandscapePortraitImage.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\bin\Debug\net6.0\ej3-LandscapePortraitImage.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\bin\Debug\net6.0\ej3-LandscapePortraitImage.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\refint\ej3-LandscapePortraitImage.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ej3-LandscapePortraitImage.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej3-LandscapePortraitImage\ej3-LandscapePortraitImage\obj\Debug\net6.0\ref\ej3-LandscapePortraitImage.dll

@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\bin\Debug\net6.0\ej7-FindFactorial.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\bin\Debug\net6.0\ej7-FindFactorial.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\bin\Debug\net6.0\ej7-FindFactorial.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\bin\Debug\net6.0\ej7-FindFactorial.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\bin\Debug\net6.0\ej7-FindFactorial.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\refint\ej7-FindFactorial.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ej7-FindFactorial.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej7-FindFactorial\ej7-FindFactorial\obj\Debug\net6.0\ref\ej7-FindFactorial.dll

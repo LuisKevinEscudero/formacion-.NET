@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\bin\Debug\net6.0\ej10-FriendsWhoLikeYourPost.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\bin\Debug\net6.0\ej10-FriendsWhoLikeYourPost.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\bin\Debug\net6.0\ej10-FriendsWhoLikeYourPost.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\bin\Debug\net6.0\ej10-FriendsWhoLikeYourPost.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\bin\Debug\net6.0\ej10-FriendsWhoLikeYourPost.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\refint\ej10-FriendsWhoLikeYourPost.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ej10-FriendsWhoLikeYourPost.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej10-FriendsWhoLikeYourPost\ej10-FriendsWhoLikeYourPost\obj\Debug\net6.0\ref\ej10-FriendsWhoLikeYourPost.dll

@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\bin\Debug\net6.0\ej11-ReverseGivenName.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\bin\Debug\net6.0\ej11-ReverseGivenName.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\bin\Debug\net6.0\ej11-ReverseGivenName.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\bin\Debug\net6.0\ej11-ReverseGivenName.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\bin\Debug\net6.0\ej11-ReverseGivenName.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\refint\ej11-ReverseGivenName.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ej11-ReverseGivenName.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej11-ReverseGivenName\ej11-ReverseGivenName\obj\Debug\net6.0\ref\ej11-ReverseGivenName.dll

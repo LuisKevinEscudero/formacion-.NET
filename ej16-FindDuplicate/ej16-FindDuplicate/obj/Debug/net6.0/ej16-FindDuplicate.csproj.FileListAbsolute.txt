@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\bin\Debug\net6.0\ej16-FindDuplicate.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\bin\Debug\net6.0\ej16-FindDuplicate.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\bin\Debug\net6.0\ej16-FindDuplicate.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\bin\Debug\net6.0\ej16-FindDuplicate.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\bin\Debug\net6.0\ej16-FindDuplicate.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\refint\ej16-FindDuplicate.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ej16-FindDuplicate.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej16-FindDuplicate\ej16-FindDuplicate\obj\Debug\net6.0\ref\ej16-FindDuplicate.dll

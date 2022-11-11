@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\bin\Debug\net6.0\ej18-ConvertWordToPascalCase.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\bin\Debug\net6.0\ej18-ConvertWordToPascalCase.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\bin\Debug\net6.0\ej18-ConvertWordToPascalCase.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\bin\Debug\net6.0\ej18-ConvertWordToPascalCase.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\bin\Debug\net6.0\ej18-ConvertWordToPascalCase.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\refint\ej18-ConvertWordToPascalCase.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ej18-ConvertWordToPascalCase.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej18-ConvertWordToPascalCase\ej18-ConvertWordToPascalCase\obj\Debug\net6.0\ref\ej18-ConvertWordToPascalCase.dll

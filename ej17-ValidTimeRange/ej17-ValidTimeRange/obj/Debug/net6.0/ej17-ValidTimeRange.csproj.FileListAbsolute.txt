@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\bin\Debug\net6.0\ej17-ValidTimeRange.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\bin\Debug\net6.0\ej17-ValidTimeRange.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\bin\Debug\net6.0\ej17-ValidTimeRange.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\bin\Debug\net6.0\ej17-ValidTimeRange.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\bin\Debug\net6.0\ej17-ValidTimeRange.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\refint\ej17-ValidTimeRange.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ej17-ValidTimeRange.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej17-ValidTimeRange\ej17-ValidTimeRange\obj\Debug\net6.0\ref\ej17-ValidTimeRange.dll

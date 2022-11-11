@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\bin\Debug\net6.0\ej15-ConsecutiveNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\bin\Debug\net6.0\ej15-ConsecutiveNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\bin\Debug\net6.0\ej15-ConsecutiveNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\bin\Debug\net6.0\ej15-ConsecutiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\bin\Debug\net6.0\ej15-ConsecutiveNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\refint\ej15-ConsecutiveNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ej15-ConsecutiveNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej15-ConsecutiveNumbers\ej15-ConsecutiveNumbers\obj\Debug\net6.0\ref\ej15-ConsecutiveNumbers.dll

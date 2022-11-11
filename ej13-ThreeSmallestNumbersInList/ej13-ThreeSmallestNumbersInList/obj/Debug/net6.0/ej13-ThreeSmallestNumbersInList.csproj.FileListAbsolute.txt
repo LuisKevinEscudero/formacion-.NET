@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\bin\Debug\net6.0\ej13-ThreeSmallestNumbersInList.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\bin\Debug\net6.0\ej13-ThreeSmallestNumbersInList.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\bin\Debug\net6.0\ej13-ThreeSmallestNumbersInList.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\bin\Debug\net6.0\ej13-ThreeSmallestNumbersInList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\bin\Debug\net6.0\ej13-ThreeSmallestNumbersInList.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\refint\ej13-ThreeSmallestNumbersInList.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ej13-ThreeSmallestNumbersInList.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej13-ThreeSmallestNumbersInList\ej13-ThreeSmallestNumbersInList\obj\Debug\net6.0\ref\ej13-ThreeSmallestNumbersInList.dll

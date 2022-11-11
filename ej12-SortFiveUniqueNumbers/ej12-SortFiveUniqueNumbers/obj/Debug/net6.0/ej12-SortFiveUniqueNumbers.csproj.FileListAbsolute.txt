@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\bin\Debug\net6.0\ej12-SortFiveUniqueNumbers.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\bin\Debug\net6.0\ej12-SortFiveUniqueNumbers.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\bin\Debug\net6.0\ej12-SortFiveUniqueNumbers.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\bin\Debug\net6.0\ej12-SortFiveUniqueNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\bin\Debug\net6.0\ej12-SortFiveUniqueNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\refint\ej12-SortFiveUniqueNumbers.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ej12-SortFiveUniqueNumbers.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej12-SortFiveUniqueNumbers\ej12-SortFiveUniqueNumbers\obj\Debug\net6.0\ref\ej12-SortFiveUniqueNumbers.dll

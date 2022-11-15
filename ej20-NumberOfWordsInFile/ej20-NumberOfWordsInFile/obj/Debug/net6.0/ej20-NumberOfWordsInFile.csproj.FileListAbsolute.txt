@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\bin\Debug\net6.0\ej20-NumberOfWordsInFile.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\bin\Debug\net6.0\ej20-NumberOfWordsInFile.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\bin\Debug\net6.0\ej20-NumberOfWordsInFile.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\bin\Debug\net6.0\ej20-NumberOfWordsInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\bin\Debug\net6.0\ej20-NumberOfWordsInFile.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\refint\ej20-NumberOfWordsInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ej20-NumberOfWordsInFile.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej20-NumberOfWordsInFile\ej20-NumberOfWordsInFile\obj\Debug\net6.0\ref\ej20-NumberOfWordsInFile.dll

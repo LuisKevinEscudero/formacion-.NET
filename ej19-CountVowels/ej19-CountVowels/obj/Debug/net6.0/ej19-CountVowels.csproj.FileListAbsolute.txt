@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\bin\Debug\net6.0\ej19-CountVowels.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\bin\Debug\net6.0\ej19-CountVowels.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\bin\Debug\net6.0\ej19-CountVowels.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\bin\Debug\net6.0\ej19-CountVowels.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\bin\Debug\net6.0\ej19-CountVowels.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\refint\ej19-CountVowels.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ej19-CountVowels.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej19-CountVowels\ej19-CountVowels\obj\Debug\net6.0\ref\ej19-CountVowels.dll

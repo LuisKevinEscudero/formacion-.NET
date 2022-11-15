@@ -1,0 +1,15 @@
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\bin\Debug\net6.0\ej21-LongestWordInFile.exe
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\bin\Debug\net6.0\ej21-LongestWordInFile.deps.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\bin\Debug\net6.0\ej21-LongestWordInFile.runtimeconfig.json
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\bin\Debug\net6.0\ej21-LongestWordInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\bin\Debug\net6.0\ej21-LongestWordInFile.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.csproj.AssemblyReference.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.AssemblyInfoInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.AssemblyInfo.cs
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.csproj.CoreCompileInputs.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\refint\ej21-LongestWordInFile.dll
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.pdb
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ej21-LongestWordInFile.genruntimeconfig.cache
+C:\Users\luiskevin.escudero\Desktop\formacion .NET\ej21-LongestWordInFile\ej21-LongestWordInFile\obj\Debug\net6.0\ref\ej21-LongestWordInFile.dll
